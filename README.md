@@ -1,8 +1,4 @@
-# guide-for-NOTION
 
-Sure, here's a template for an awesome README file for your GitHub repository on how to use Notion to organize life like a pro:
-
----
 
 # Notion Life Organizer
 
