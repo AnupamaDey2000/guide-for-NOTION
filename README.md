@@ -145,4 +145,3 @@ This project is licensed under the MIT License. See the [LICENSE](link-to-licens
 
 ---
 
-Feel free to customize this template with specific details, images, and links related to your project.
